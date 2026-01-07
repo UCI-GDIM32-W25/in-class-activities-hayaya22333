@@ -13,7 +13,7 @@ Hit enter TWICE to create a new line.
 Remove all placeholder text in order to get full credit for README file formatting.
 
 
-# Tuesday 1/6/2026
+## Tuesday 1/6/2026
 1. Advice for the class
 - Make sure to understand all code that you're writing
 - Listening to advices that play testers give you
