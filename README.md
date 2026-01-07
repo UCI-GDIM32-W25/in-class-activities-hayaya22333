@@ -27,8 +27,8 @@ Remove all placeholder text in order to get full credit for README file formatti
 - Q4: MonoBehaviour
 - Q5: outputs "x = 10" in the debug log after starting the program
 - Q6: They are parameters of the PrintMessage and Debug.Log functions that affects the function output.
-- Q7: Transform is a class, but a method should be used in line 5.
-- Q8: Transform should be replaced with transform, so it's a method in the Transform class.
+- Q7: Transform is a class, which doesn't work with Translate.
+- Q8: Transform should be replaced with _playerTransform, so it's an object being transformed.
 
 
-3. MG1 breakdown document link: https://docs.google.com/document/d/1UXDUsuOex7GqYMP9yYa7gvkDrwqgTheISogXepRYJZs/edit?usp=sharing
+3. [MG1 breakdown document link ](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
