@@ -20,5 +20,6 @@
 [MG1 breakdown document link ](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
 ## W2
 ### Activity 1
+![W2_A2](https://github.com/user-attachments/assets/8583b89a-9695-4924-8732-f615ca527c62)
 ### Activity 2
 [In-class commit to MG2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-hayaya22333/commit/bd5a7a369d52643f444a54364b6b7816e7edbfe0)
