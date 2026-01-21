@@ -23,3 +23,8 @@
 ![W2_A2](https://github.com/user-attachments/assets/8583b89a-9695-4924-8732-f615ca527c62)
 ### Activity 2
 [In-class commit to MG2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-hayaya22333/commit/bd5a7a369d52643f444a54364b6b7816e7edbfe0)
+## W3
+### Activities 0-2
+Partner: Leo
+### Activity 3
+![W3InClass](https://github.com/user-attachments/assets/0962d7f1-6f29-47b4-b3e0-cc3104a1a54b)
