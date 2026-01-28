@@ -32,6 +32,9 @@ Partner: Leo
 ### Activity 0
 Partner: Leo
 ### Activity 1
+In Awake(), the Locator class removes any extra Locator objects when there are more than one existing in the scene.
 ### Activity 2
+![IMG_8923](https://github.com/user-attachments/assets/da49cc6d-b1f2-4d2f-a720-f4157fa208dc)
 ### Activity 3
-
+[In-class commit to MG4](https://github.com/hayaya22333/HW4/commits/main/)
+I created all the objects for the scene and added all required empty script files.
