@@ -36,5 +36,5 @@ In Awake(), the Locator class removes any extra Locator objects when there are m
 ### Activity 2
 ![IMG_8923](https://github.com/user-attachments/assets/da49cc6d-b1f2-4d2f-a720-f4157fa208dc)
 ### Activity 3
-[In-class commit to MG4]([https://github.com/hayaya22333/HW4/commits/main/](https://github.com/hayaya22333/HW4/commit/90e4bedf81fa90b58ea86d9824efb1fa5903b7a1))
+[In-class commit to MG4](https://github.com/hayaya22333/HW4/commit/90e4bedf81fa90b58ea86d9824efb1fa5903b7a1)
 I created all the objects for the scene and added all required empty script files.
