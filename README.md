@@ -53,4 +53,4 @@ Model keeps track of the location of players, obstacles, shot line, and skills d
 Inheritance with polymorphism applies to when different types of crops inherit similar traits and status from a parent prop class. State machine might not apply, since crop states won't move backwards.
 ### Activity 4
 Attendance: Han Yang, Leo Abe, Jing Chen
-[Final Project Core Concept Link] (https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
+[Final Project Core Concept Link](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
