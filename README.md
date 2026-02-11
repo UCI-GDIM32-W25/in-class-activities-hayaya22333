@@ -63,3 +63,6 @@ Attendance: Han Yang, Leo Abe, Jing Chen
 - Avoid iterating lists and arrays too frequently.
 - Performance profiling shows a histogram of time consumed each fram for different functionalities. Find the usage spikes and work around what's consuming to much resources. Selecting a frame will show hierarchy and list all methods along with their resource consumption.
 - Gizmos can show vector of rigidbody movement, for our project it can indicate where the player is moving and help fix irregular physics that happened on interactable objects in the scene if we apply any RigidBody to them.
+- Breakpoints can be inserted in codes to only run codes up to a point and check for where bugs occur.
+### Activity 2
+Attendance: Han Yang, Leo Abe, Jing Chen
