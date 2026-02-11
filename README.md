@@ -55,3 +55,11 @@ Inheritance with polymorphism applies to when different types of crops inherit s
 Attendance: Han Yang, Leo Abe, Jing Chen
 
 [Final Project Core Concept Link](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
+## W5
+### Activity 1
+- Use simple colliders (circles are most efficient), avoid polygon colliders.
+- Avoid puting unnecessary programs in Update() when they don't need to be checked every frame.
+- Only use RigidBody when necessary, don't add on unmovable objects.
+- Avoid iterating lists and arrays too frequently.
+- Performance profiling shows a histogram of time consumed each fram for different functionalities. Find the usage spikes and work around what's consuming to much resources. Selecting a frame will show hierarchy and list all methods along with their resource consumption.
+- Gizmos can show vector of rigidbody movement, for our project it can indicate where the player is moving and help fix irregular physics that happened on interactable objects in the scene if we apply any RigidBody to them.
