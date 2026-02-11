@@ -66,3 +66,5 @@ Attendance: Han Yang, Leo Abe, Jing Chen
 - Breakpoints can be inserted in codes to only run codes up to a point and check for where bugs occur.
 ### Activity 2
 Attendance: Han Yang, Leo Abe, Jing Chen
+
+[Final Project Core Concept Link](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
