@@ -80,3 +80,6 @@ Jing Chen, Han Yang, Leo Ave
 ![IMAGE](https://github.com/user-attachments/assets/5c667878-cc5f-4a8d-a09b-b1a15cf2d6b1)
 ### Activity 4
 [Task manager link](https://trello.com/invite/b/6995204f10128a75a7a1bc20/ATTI644d9b17f0193b959eec057e6ce3f61f73B9245B/froggiest-frog)
+### Activity 5
+[Commit log]
+I edited...
