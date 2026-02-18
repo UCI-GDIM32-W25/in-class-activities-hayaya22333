@@ -55,7 +55,7 @@ Inheritance with polymorphism applies to when different types of crops inherit s
 Attendance: Han Yang, Leo Abe, Jing Chen
 
 [Final Project Core Concept Link](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
-## W5
+## W6
 ### Activity 1
 - Use simple colliders (circles are most efficient), avoid polygon colliders.
 - Avoid puting unnecessary programs in Update() when they don't need to be checked every frame.
@@ -68,3 +68,14 @@ Attendance: Han Yang, Leo Abe, Jing Chen
 Attendance: Han Yang, Leo Abe, Jing Chen
 
 [Final Project Core Concept Link](https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0#heading=h.y4j3q551ojs1)
+## W7
+### Activity 1
+- Use finite state machine to switch status/behavior of NPC
+- Use Gizmos to show raycast of sight, for our project check if the player's crosshair can reach interactable items: Gizmos.DrawRay(transform.position, direction). Raycasts return a boolean.
+- Check tag: "gameObject.tag.Equals(_playerTag)"
+- SphereCast checks for colliders that escaped the raycast, useful for NPC logic.
+### Activity 2
+Jing Chen, Han Yang, Leo Ave
+### Activity 3
+<img width="528" height="294" alt="image" src="https://github.com/user-attachments/assets/5c667878-cc5f-4a8d-a09b-b1a15cf2d6b1" />
+
