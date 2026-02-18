@@ -81,6 +81,6 @@ Jing Chen, Han Yang, Leo Ave
 ### Activity 4
 [Task manager link](https://trello.com/invite/b/6995204f10128a75a7a1bc20/ATTI644d9b17f0193b959eec057e6ce3f61f73B9245B/froggiest-frog)
 ### Activity 5
-[Commit log]
+[Commit Log](https://github.com/lindenreid/GDIM32-Final/commit/cfd9f542b2c99611cfafbdcb73dc703040b8a84f)
 
-I edited...
+I made a scene for testing our project and reuploaded 3D mesh for environment objects. 
