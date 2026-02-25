@@ -93,7 +93,7 @@ Post-processing:
 ### Activity 2
 Attendance: Han Yang, Leo Abe, Jing Chen
 ### Activity 3
-Playtesting notes
+Use keybinds for interacting with stuff. Lock cursor to the center of the screen. Disable player movement while dialogue exchange is happening. Add in-dialogue and out-of-dialogue states to control player behavior while dialogue is and isn't happening.
 ### Activity 4
 I'll finish the audio system when interacting with items. I used interface for item interaction, today I'll switch to using locators.
 ### Activity 5
