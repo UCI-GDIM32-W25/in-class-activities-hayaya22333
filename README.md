@@ -97,4 +97,5 @@ Use keybinds for interacting with stuff. Lock cursor to the center of the screen
 ### Activity 4
 I'll finish the audio system when interacting with items. I used interface for item interaction, today I'll switch to using locators.
 ### Activity 5
-
+[Recent commit link](https://github.com/hayaya22333/GDIM32-Final/commit/3756a30f428bf4b16881a6f54e340b2ca484ec72)
+I fixed the audio system and used locators. There's issues with using event to collect objects to fix later.
