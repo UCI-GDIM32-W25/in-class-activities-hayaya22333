@@ -84,3 +84,17 @@ Jing Chen, Han Yang, Leo Ave
 [Commit Log](https://github.com/lindenreid/GDIM32-Final/commit/cfd9f542b2c99611cfafbdcb73dc703040b8a84f)
 
 I made a scene for testing our project and reuploaded 3D mesh for environment objects. 
+## W8
+### Activity 1
+Post-processing:
+- Camera effects
+- Adds render effect after drawing objects
+- Bloom, brightness, colors, screen deform...
+### Activity 2
+Attendance: Han Yang, Leo Abe, Jing Chen
+### Activity 3
+Playtesting notes
+### Activity 4
+I'll finish the audio system when interacting with items. I used interface for item interaction, today I'll switch to using locators.
+### Activity 5
+
