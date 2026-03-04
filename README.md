@@ -111,4 +111,5 @@ Navigating the UI is difficult. Inventory UI is confusing because it is not clea
 ### Activity 4
 We're up to date with our project plan, and even a bit ahead in item and environment category. The UI and pause system still needs work, but in general we're more than 50% done.
 ### Activity 5
-I updated the game UI and used terrain for ground.
+I updated the game UI for quest display.
+[Git commit link](https://github.com/hayaya22333/GDIM32-Final/commit/1b9266757421d862997680b5d208b48c20454322)
