@@ -99,3 +99,16 @@ I'll finish the audio system when interacting with items. I used interface for i
 ### Activity 5
 [Recent commit link](https://github.com/hayaya22333/GDIM32-Final/commit/3756a30f428bf4b16881a6f54e340b2ca484ec72)
 I fixed the audio system and used locators. There's issues with using event to collect objects to fix later.
+## W9
+### Activity 1
+- Code dialogue to scale well, and can accept increasing number of branches without touching the script.
+- Connect dialogue to NPC state.
+- Change dialogue based on latest player action.
+### Activity 2
+Attendance: Han Yang, Leo Abe, Jing Chen
+### Activity 3
+Navigating the UI is difficult. Inventory UI is confusing because it is not clear which box is selected. The environment could use less plants so that the sun shines through. Instantiate the objects at an offset when dropping items. Use the same key for interacting and progressing dialogue for NPC.
+### Activity 4
+We're up to date with our project plan, and even a bit ahead in item and environment category. The UI and pause system still needs work, but in general we're more than 50% done.
+### Activity 5
+I updated the game UI and used terrain for ground.
