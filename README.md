@@ -113,3 +113,13 @@ We're up to date with our project plan, and even a bit ahead in item and environ
 ### Activity 5
 I updated the game UI for quest display.
 [Git commit link](https://github.com/hayaya22333/GDIM32-Final/commit/1b9266757421d862997680b5d208b48c20454322)
+## W10
+### Activity 1
+Attendance: Han Yang, Leo Abe, Jing Chen
+### Activity 2
+Add player dialogue options and corresponding NPC responses. Fix the Frogman NPC shooter because its aiming is bugged. Have the Frogman NPC move around or start in an idle animation instead of walk.
+### Activity 3
+We're done with all the mechanical aspects of the project. We need to add more objects using the same scripts and update sprites for UI.
+### Activity 4
+[Commit link](https://github.com/hayaya22333/GDIM32-Final/commit/e919995893801db700c09f88b9b19d1ab45fe16e)
+I updated terrain texture and added a stray walking script to our npc, so he walks at given target points.
